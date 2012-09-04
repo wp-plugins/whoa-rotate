@@ -4,7 +4,7 @@ Tags: rotation, joke, april fools, fun, shortcode
 Requires at least: 3.4
 Tested up to: 3.4
 
-Whoa! Rotate gives you an easy to use shortcode that will rotate your page for the user. Just use the shortcode [whoa-rotate] anywhere in a page or post. Perfect for April Fools or for joke pages.
+Whoa! Rotate gives you an easy to use shortcode that will rotate your page for the user. Just use the shortcode [whoa-rotate] anywhere in a page.
 
 == Description ==
 
